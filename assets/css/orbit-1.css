@@ -4,6 +4,8 @@ a{color:#66689c;-webkit-transition:all 0.4s ease-in-out;-moz-transition:all 0.4s
 a:hover{text-decoration:underline;color:#7577a9}
 a:focus{text-decoration:none}
 p{line-height:1.5}
+::selection {background: #7577a9;color: #fff;}
+::-moz-selection {background: #7577a9;color: #fff;}
 .wrapper{background:#42A8C0;max-width:960px;margin:0 auto;position:relative;-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.1);-moz-box-shadow:0 2px 4px rgba(0,0,0,0.1);box-shadow:0 2px 4px rgba(0,0,0,0.1)}
 .sidebar-wrapper{background:#7577a9;position:absolute;right:0;width:240px;height:100%;min-height:800px;color:#fff}
 .sidebar-wrapper a{color:#fff}
