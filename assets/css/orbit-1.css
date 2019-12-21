@@ -10,7 +10,7 @@ p{line-height:1.5}
 .sidebar-wrapper{background:#FF5722;position:absolute;right:0;width:240px;height:100%;min-height:800px;color:#fff}
 .sidebar-wrapper a{color:#fff}
 .sidebar-wrapper .profile-container{padding:30px;background:rgba(0,0,0,0.2);text-align:center;color:#fff}
-.sidebar-wrapper .name{font-size:32px;font-weight:900;margin-top:0;margin-bottom:10px}
+.sidebar-wrapper .name{font-size:23px;font-weight:900;margin-top:0;margin-bottom:10px}
 .sidebar-wrapper .tagline{color:rgba(255,255,255,0.6);font-size:16px;font-weight:400;margin-top:0;margin-bottom:0}
 .sidebar-wrapper .profile{margin-bottom:15px}
 .sidebar-wrapper .contact-list .svg-inline--fa{margin-right:5px;font-size:18px;vertical-align:middle}
@@ -38,7 +38,7 @@ p{line-height:1.5}
 .main-wrapper .section{margin-bottom:60px}
 .main-wrapper .experiences-section .item{margin-bottom:30px}
 .main-wrapper .upper-row{position:relative;overflow:hidden;margin-bottom:2px}
-.main-wrapper .job-title{color:#3F4650;font-size:16px;margin-top:0;margin-bottom:0;font-weight:500}
+.main-wrapper .job-title{color:#FF5722;font-size:16px;margin-top:0;margin-bottom:0;font-weight:500}
 .main-wrapper .time{position:absolute;right:0;top:0;color:#97AAC3}
 .main-wrapper .company{margin-bottom:10px;color:#97AAC3}
 .main-wrapper .project-title{font-size:16px;font-weight:400;margin-top:0;margin-bottom:5px}
