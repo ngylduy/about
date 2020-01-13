@@ -16,6 +16,7 @@ p{line-height:1.5}
 .sidebar-wrapper .contact-list .svg-inline--fa{margin-right:5px;font-size:18px;vertical-align:middle}
 .sidebar-wrapper .contact-list li{margin-bottom:15px}
 .sidebar-wrapper .contact-list li:last-child{margin-bottom:0}
+.sidebar-wrapper .contact-list i{font-size: 1rem;margin-left: .5rem}
 .sidebar-wrapper .contact-list .email .svg-inline--fa{font-size:14px}
 .sidebar-wrapper .container-block{padding:30px}
 .sidebar-wrapper .container-block-title{text-transform:uppercase;font-size:16px;font-wgeight:700;margin-top:0;margin-bottom:15px}
